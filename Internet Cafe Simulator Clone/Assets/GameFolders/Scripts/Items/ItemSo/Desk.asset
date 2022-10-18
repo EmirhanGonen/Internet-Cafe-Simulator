@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c50149902a11145bd653b60989e405, type: 3}
+  m_Name: Desk
+  m_EditorClassIdentifier: 
+  purchasedObject: {fileID: 8717646567374353261, guid: 2869d6fe92cdd44499d5f9e0f84fe005, type: 3}
+  Basecost: 45
